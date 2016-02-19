@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dass"
+            android:icon="@drawable/ic_menu_dass"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_transs"
+            android:icon="@drawable/ic_menu_transs"
+            android:title="Transaction" />
+        <item
+            android:id="@+id/nav_syncc"
+            android:icon="@drawable/ic_menu_syncc"
+            android:title="Sycncronize" />
+    </group>
+
+</menu>
